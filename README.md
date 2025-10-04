@@ -3,13 +3,15 @@
 <a href="https://linkedin.com/in/keithchewzikai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:keithchewzk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
-<a href="https://samujjwaal.me/"><img src="images/profile-square.PNG" align="right" height="250" /></a>
+<a href="https://samujjwaal.me/"><img src="images/profile-landscape.PNG" align="center" height="250" /></a>
 
-- 👨‍💻 Backend Software Engineer at MSD
-- 🎓 Graduated from National University of Singapore, Computational Biology
-- 🤖 Learning full-stack app development, with a stronger focus <br> on backend and infrastructure at the moment
+👨‍💻 Backend Software Engineer at MSD
 
-<br><br><br><br><br><br>
+🎓 Graduated from National University of Singapore, Computational Biology
+
+🤖 Learning full-stack app development, with a stronger focus on backend and infrastructure at the moment
+
+<br>
 
 # 🧰 My Toolbox
 
