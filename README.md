@@ -44,7 +44,7 @@
 
 # ✨ Projects
 
-### 🙋🏻‍♂️ heyitskeith (Portfolio Site)
+### 🙋🏻‍♂️ heyitskeith
 <div align="left">
   My personal portfolio site, built to showcase my experiences and skills.
 </div>
