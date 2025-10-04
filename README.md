@@ -56,7 +56,7 @@
   My personal portfolio site, built to showcase my experiences and skills.
 </div>
 
-- **Website:** [https://keithchewzk.github.io/heyitskeith/](https://keithchewzk.github.io/heyitskeith/)
+- **Website:** [https://keithchewzk.github.io/heyitskeith/](https://keithchewzk.github.io/heyitskeith)
 - **GitHub Repo:** [keithchewzk/heyitskeith](https://github.com/keithchewzk/heyitskeith)
 
 <div align="left">
