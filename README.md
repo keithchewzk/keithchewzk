@@ -57,7 +57,7 @@
 </div>
 
 - **Website:** [https://keithchewzk.github.io/heyitskeith](https://keithchewzk.github.io/heyitskeith)
-- **GitHub Repo:** [keithchewzk/heyitskeith](https://github.com/keithchewzk/heyitskeith)
+- **GitHub Repo:** [https://github.com/keithchewzk/heyitskeith](https://github.com/keithchewzk/heyitskeith)
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React Badge"/>
@@ -74,7 +74,7 @@
 </div>
 
 - **Website:** [https://reportscribe.up.railway.app](https://reportscribe.up.railway.app)
-- **GitHub Repo:** [keithchewzk/report-scribe](https://github.com/keithchewzk/report-scribe)
+- **GitHub Repo:** [https://github.com/keithchewzk/report-scribe](https://github.com/keithchewzk/report-scribe)
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python Badge"/>
