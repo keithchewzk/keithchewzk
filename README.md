@@ -11,7 +11,7 @@
 
 <br>
 
-# 🧰 Toolbox
+# 🧰 Toolbox 
 
 ### Languages
 <div align="left">
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/>
 </div>
 
----
+<br>
 
 ### 👨🏻‍🏫 Report Scribe
 <div align="left">
