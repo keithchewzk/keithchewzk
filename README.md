@@ -3,17 +3,18 @@
 <a href="https://linkedin.com/in/keithchewzikai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:keithchewzk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
-👨‍💻 Backend Software Engineer at MSD
-<br>
-🎓 Graduated from National University of Singapore, Computational Biology
-<br>
-🤖 Learning full-stack app development, with a stronger focus on backend and infrastructure at the moment
+<a href="https://samujjwaal.me/"><img src="images/profile-square.PNG" align="right" height="250" /></a>
 
-<br>
+- 👨‍💻 Backend Software Engineer at MSD
+- 🎓 Graduated from National University of Singapore, Computational Biology
+- 🤖 Learning full-stack app development, with a stronger focus <br> on backend and infrastructure at the moment
 
-# 🧰 Toolbox 
+<br><br><br><br><br><br>
+
+# 🧰 My Toolbox
 
 ### Languages
+
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
@@ -23,6 +24,7 @@
 </div>
 
 ### Frameworks & Libraries
+
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
@@ -30,6 +32,7 @@
 </div>
 
 ### Developer Tools & Infrastructure
+
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
@@ -40,11 +43,13 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 </div>
-<br>
+
+<br><br>
 
 # ✨ Projects
 
 ### 🙋🏻‍♂️ heyitskeith
+
 <div align="left">
   My personal portfolio site, built to showcase my experiences and skills.
 </div>
@@ -61,6 +66,7 @@
 <br>
 
 ### 👨🏻‍🏫 Report Scribe
+
 <div align="left">
   A web application that uses AI to generate personalized student reports for school teachers, streamlining the process and significantly reducing time and manual effort.
 </div>
