@@ -5,7 +5,7 @@
 
 <a href="https://samujjwaal.me/"><img src="images/profile-landscape.PNG" align="center" height="250" /></a>
 
-👨‍💻 Backend Software Engineer at MSD
+👨‍💻 Backend Software Engineer
 
 🎓 Graduated from National University of Singapore, Computational Biology
 
