@@ -67,7 +67,7 @@
 
 <br>
 
-### 👨🏻‍🏫 Report Scribe
+### 👨🏻‍🏫 ReportScribe
 
 <div align="left">
   A web application that uses AI to generate personalized student reports for school teachers, streamlining the process and significantly reducing time and manual effort.
