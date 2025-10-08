@@ -74,7 +74,7 @@
 </div>
 
 - **Website:** [https://reportscribe.up.railway.app](https://reportscribe.up.railway.app)
-- **GitHub Repo:** [https://github.com/keithchewzk/report-scribe](https://github.com/keithchewzk/report-scribe)
+- **GitHub Repo:** [https://github.com/keithchewzk/reportscribe](https://github.com/keithchewzk/reportscribe)
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python Badge"/>
