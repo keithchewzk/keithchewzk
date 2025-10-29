@@ -84,3 +84,25 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker Badge"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Google Gemini Badge"/>
 </div>
+
+<br>
+
+### 🚗 FareShare
+
+<div align="left">
+  Collaborative web application for tracking and fairly splitting shared car usage and expenses within groups. 
+  Users can create or join groups, log trips, calculate costs automatically, and settle balances transparently.
+</div>
+
+- **Website:** [https://fareshare.up.railway.app](https://fareshare.up.railway.app)
+- **GitHub Repo:** [https://github.com/keithchewzk/fareshare](https://github.com/keithchewzk/fareshare)
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker Badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white" alt="Google Maps Badge"/>
+</div>
