@@ -45,7 +45,7 @@
 
 <br><br>
 
-# ✨ Projects
+# 🚀 Projects
 
 ### 🙋🏻‍♂️ heyitskeith
 
@@ -64,7 +64,7 @@
 
 <br>
 
-### 👨🏻‍🏫 ReportScribe
+### 📚 ReportScribe
 
 <div align="left">
   A simple no-frills web application that uses AI to generate personalized student reports for school teachers, streamlining the process and significantly reducing time and manual effort.
