@@ -11,7 +11,7 @@
 
 <br>
 
-# 🧰 My Toolbox
+# 🧩 Skills
 
 ### Languages
 
