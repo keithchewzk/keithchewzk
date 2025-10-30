@@ -67,7 +67,7 @@
 ### 👨🏻‍🏫 ReportScribe
 
 <div align="left">
-  A simple single page web application that uses AI to generate personalized student reports for school teachers, streamlining the process and significantly reducing time and manual effort.
+  A simple no-frills web application that uses AI to generate personalized student reports for school teachers, streamlining the process and significantly reducing time and manual effort.
 </div>
 
 - **Website:** [https://reportscribe.up.railway.app](https://reportscribe.up.railway.app)
