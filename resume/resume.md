@@ -143,7 +143,7 @@ Personal portfolio website built to showcase professional experience, projects, 
 
 AI-powered web application that automates the generation of personalised student reports for teachers, streamlining workflow and significantly reducing manual effort.
 
-- Website: https://reportscribe.up.railway.app
+- Website: https://reportscribe.up.railway.app (not hosted at the moment)
 - GitHub: https://github.com/keithchewzk/reportscribe
 - Tech Stack: Python, FastAPI, React, TypeScript, Docker, Google Gemini API
 
@@ -151,7 +151,7 @@ AI-powered web application that automates the generation of personalised student
 
 Collaborative web application for tracking and splitting shared car usage and expenses. Enables users to log trips, calculate costs automatically, and settle balances transparently within groups.
 
-- Website: https://fareshare.up.railway.app
+- Website: https://fareshare.up.railway.app (not hosted at the moment)
 - GitHub: https://github.com/keithchewzk/fareshare
 - Tech Stack: Python, FastAPI, React, TypeScript, Docker, PostgreSQL, Google Maps API
 
