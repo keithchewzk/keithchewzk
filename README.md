@@ -70,7 +70,7 @@
   A simple no-frills web application that uses AI to generate personalized student reports for school teachers, streamlining the process and significantly reducing time and manual effort.
 </div>
 
-- **Website:** [https://reportscribe.up.railway.app](https://reportscribe.up.railway.app)
+- **Website:** [https://reportscribe.up.railway.app](https://reportscribe.up.railway.app) (not hosted at the moment)
 - **GitHub Repo:** [https://github.com/keithchewzk/reportscribe](https://github.com/keithchewzk/reportscribe)
 
 <div align="left">
@@ -91,7 +91,7 @@
   Users can create or join groups, log trips, calculate costs automatically, and settle balances transparently.
 </div>
 
-- **Website:** [https://fareshare.up.railway.app](https://fareshare.up.railway.app)
+- **Website:** [https://fareshare.up.railway.app](https://fareshare.up.railway.app) (not hosted at the moment)
 - **GitHub Repo:** [https://github.com/keithchewzk/fareshare](https://github.com/keithchewzk/fareshare)
 
 <div align="left">
